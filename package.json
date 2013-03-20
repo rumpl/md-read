@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "node-readability": "git://github.com/rumpl/node-readability.git",
+    "html-md": "~2.0.2"
+  }
+}
